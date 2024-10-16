@@ -1,4 +1,4 @@
-#!/usr/bin/python env
+#!/usr/bin/env python3
 ''' writing a function that calls another function n number of times'''
 
 import asyncio
